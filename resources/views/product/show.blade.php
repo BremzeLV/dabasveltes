@@ -75,7 +75,7 @@
         </div>
         <div class="row">
             <div class="col-sm-12 description">
-                asdasdasd
+                {{ $product->user->description }}
             </div>
         </div>
 
